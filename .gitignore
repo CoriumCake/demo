@@ -1,0 +1,28 @@
+# User-specific files
+UserSettings/
+
+# Build results
+Builds/
+[Bb]in/
+[Ll]ibrary/
+
+# Asset cache directory
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider files
+.idea/
+
+# OS generated files
+.DS_Store*
+Thumbs.db
+ehthumbs.db
+
+# Unity3D generated files
+[Tt]emp/
+[Tt]empCache/
